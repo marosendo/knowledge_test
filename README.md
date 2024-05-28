@@ -4,7 +4,7 @@
 1. [General Info](#general-info)
 2. [Technologies](#technologies)
 3. [Run](#run)
-4.[BDD given-when-then](#BDD given-when-then)
+4. [BDD given-when-then](#BDD given-when-then)
 
 ## General Info
 ***
