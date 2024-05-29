@@ -18,7 +18,7 @@ def navigate_menus(driver,section):
     home = WebDriverWait(driver, 10).until(
     EC.visibility_of_element_located((By.XPATH, section)))
     time.sleep(5)
-
+    home.click()
   
 def readParagraph(driver):
     # Print the text list
